@@ -9,5 +9,5 @@ scipy
 six
 numpy
 PyYAML
-git+git://github.com/deepmind/dmvr.git
+git+https://github.com/deepmind/dmvr.git #change from git to https
 absl-py
